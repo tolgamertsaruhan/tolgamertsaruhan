@@ -1,3 +1,5 @@
+<img src="https://github.com/tolgamertsaruhan/tolgamertsaruhan/blob/main/image/travolta.gif" align="right" height="150" width="300">
+
 <h3 align="left">About Me</h3>
 
 - 👋 Hi, I’m Tolga Mert Saruhan.
