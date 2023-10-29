@@ -1,4 +1,4 @@
-<img src="https://github.com/tolgamertsaruhan/tolgamertsaruhan/blob/main/image/travolta.gif" align="right" height="140" width="280" style="margin-top:500px;">
+<img src="https://github.com/tolgamertsaruhan/tolgamertsaruhan/blob/main/image/de-niro-tada-spin.gif" align="right" style="margin-top:500px;">
 <h3 align="left">About Me:</h3>
 
 - 👋 Hi, I’m Tolga Mert Saruhan.
