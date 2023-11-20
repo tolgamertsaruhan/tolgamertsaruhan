@@ -3,6 +3,8 @@
 
 - 👋 Hi, I’m Tolga Mert Saruhan.
 
+- 🏫 3rd year Computer Engineering student at Dokuz Eylül University.
+
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tolgamertsaruhan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgamertsaruhan00" height="30" width="40" /></a>
