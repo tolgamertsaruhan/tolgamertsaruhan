@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Tolga Mert Saruhan.
 
-- 🏫 3rd year Computer Engineering student at Dokuz Eylül University.
+- 🏫 4th year Computer Engineering student at Dokuz Eylül University.
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
